@@ -1,2 +1,2 @@
 # git-day-3-assignment
-Assuming this is a simple application repo
+Assuming this is a simple website repo
